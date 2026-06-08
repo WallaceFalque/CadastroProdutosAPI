@@ -71,46 +71,6 @@ PUT /api/produtos/{id}
 DELETE /api/produtos/{id}
 ```
 
-## Como executar o projeto
-
-1. Clone o repositório
-
-```bash
-git clone <url-do-repositorio>
-```
-
-2. Acesse a pasta do projeto
-
-```bash
-cd ProductCatalogAPI
-```
-
-3. Restaure as dependências
-
-```bash
-dotnet restore
-```
-
-4. Execute as migrations
-
-```bash
-dotnet ef database update
-```
-
-5. Inicie a aplicação
-
-```bash
-dotnet run
-```
-
-## Documentação da API
-
-Após iniciar a aplicação, acesse o Swagger:
-
-```text
-https://localhost:<porta>/swagger
-```
-
 ## Objetivo do Projeto
 
 Este projeto foi desenvolvido com fins de estudo para praticar conceitos fundamentais de desenvolvimento backend com ASP.NET Core, incluindo:
