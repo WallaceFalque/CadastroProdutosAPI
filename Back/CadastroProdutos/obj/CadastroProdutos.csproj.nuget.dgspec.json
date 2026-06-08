@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSCodeProjects\\APIs\\back\\cadastroprodutos\\CadastroProdutos.csproj": {}
+    "E:\\VSCodeProjects\\APIs\\Back\\CadastroProdutos\\CadastroProdutos.csproj": {}
   },
   "projects": {
-    "E:\\VSCodeProjects\\APIs\\back\\cadastroprodutos\\CadastroProdutos.csproj": {
+    "E:\\VSCodeProjects\\APIs\\Back\\CadastroProdutos\\CadastroProdutos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSCodeProjects\\APIs\\back\\cadastroprodutos\\CadastroProdutos.csproj",
+        "projectUniqueName": "E:\\VSCodeProjects\\APIs\\Back\\CadastroProdutos\\CadastroProdutos.csproj",
         "projectName": "CadastroProdutos",
-        "projectPath": "E:\\VSCodeProjects\\APIs\\back\\cadastroprodutos\\CadastroProdutos.csproj",
+        "projectPath": "E:\\VSCodeProjects\\APIs\\Back\\CadastroProdutos\\CadastroProdutos.csproj",
         "packagesPath": "C:\\Users\\wallace\\.nuget\\packages\\",
-        "outputPath": "E:\\VSCodeProjects\\APIs\\back\\cadastroprodutos\\obj\\",
+        "outputPath": "E:\\VSCodeProjects\\APIs\\Back\\CadastroProdutos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

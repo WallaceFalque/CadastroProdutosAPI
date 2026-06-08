@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uBcahhqMC4w=",
+  "dgSpecHash": "WPVbSY5af7E=",
   "success": true,
-  "projectFilePath": "E:\\VSCodeProjects\\APIs\\back\\cadastroprodutos\\CadastroProdutos.csproj",
+  "projectFilePath": "E:\\VSCodeProjects\\APIs\\Back\\CadastroProdutos\\CadastroProdutos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wallace\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\wallace\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
